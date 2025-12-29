@@ -15,7 +15,7 @@ import {
   CheckCircle,
   Star,
 } from "lucide-react";
-import advocatePortrait from "@/assets/advocate-portrait.jpg";
+import advocatePortrait from "@/assets/image.png";
 
 const stats = [
   { icon: Briefcase, number: "28+", label: "Years of Experience" },
@@ -62,7 +62,7 @@ export default function HomePage() {
                   className="inline-flex items-center gap-2 bg-gold/20 text-gold px-4 py-2 rounded-full text-sm font-medium mb-6"
                 >
                   <Scale className="w-4 h-4" />
-                  <span>Bar Council Election 2025</span>
+                  <span>Bar Council Election 2026</span>
                 </motion.div>
 
                 <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground leading-tight mb-6">
@@ -78,7 +78,7 @@ export default function HomePage() {
                 <div className="flex flex-wrap gap-4 mb-10">
                   <Link to="/manifesto">
                     <Button variant="hero" size="xl">
-                      View My Manifesto
+                      View My Bar Council Election
                       <ArrowRight className="w-5 h-5" />
                     </Button>
                   </Link>
@@ -96,7 +96,7 @@ export default function HomePage() {
                   </div>
                   <div className="flex items-center gap-2">
                     <GraduationCap className="w-5 h-5 text-gold" />
-                    <span>Ph.D. in Law</span>
+                    <span>M.A., M.Com, M.B.A., M.L., M.Sc., D.L.L., D.I.R.P.M., Ph.D-Law</span>
                   </div>
                 </div>
               </motion.div>
@@ -258,13 +258,13 @@ export default function HomePage() {
             <div className="flex flex-wrap justify-center gap-4">
               <Link to="/manifesto">
                 <Button variant="gold" size="xl">
-                  View My Manifesto
+                  View My Bar Council Election
                   <ArrowRight className="w-5 h-5" />
                 </Button>
               </Link>
               <Link to="/public-service">
                 <Button variant="heroOutline" size="xl">
-                  Free Coaching Programs
+                  join with Dr.N.Vijayaraj
                 </Button>
               </Link>
             </div>

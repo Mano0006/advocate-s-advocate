@@ -111,11 +111,11 @@ export default function ManifestoPage() {
               className="inline-flex items-center gap-2 bg-gold/20 text-gold px-6 py-3 rounded-full text-lg font-semibold mb-6"
             >
               <Target className="w-5 h-5" />
-              Bar Council Election 2025
+              Bar Council Election 2026
             </motion.div>
             
             <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6">
-              Election Manifesto
+              Bar Council Election
             </h1>
             <p className="text-primary-foreground/80 text-lg md:text-xl leading-relaxed">
               A comprehensive vision for the welfare and advancement of the advocate community. 

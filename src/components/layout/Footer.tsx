@@ -29,7 +29,7 @@ export function Footer() {
               {[
                 { href: "/biography", label: "Biography" },
                 { href: "/practice", label: "Legal Practice" },
-                { href: "/manifesto", label: "Election Manifesto" },
+                { href: "/manifesto", label: "Bar Council Election" },
                 { href: "/publications", label: "Publications" },
               ].map((link) => (
                 <li key={link.href}>
@@ -56,11 +56,11 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3 text-sm">
                 <Phone className="w-4 h-4 text-gold shrink-0" />
-                <span className="text-primary-foreground/70">+91 XXXXX XXXXX</span>
+                <span className="text-primary-foreground/70">+91 9884442080 </span>
               </li>
               <li className="flex items-center gap-3 text-sm">
                 <Mail className="w-4 h-4 text-gold shrink-0" />
-                <span className="text-primary-foreground/70">contact@drvijayaraj.com</span>
+                <span className="text-primary-foreground/70">vijaycourt@gmail.com</span>
               </li>
             </ul>
           </div>

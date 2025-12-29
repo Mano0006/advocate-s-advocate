@@ -25,12 +25,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+91 XXXXX XXXXX"],
+    details: ["+91 9884442080 "],
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["contact@drvijayaraj.com"],
+    details: ["vijaycourt@gmail.com"],
   },
   {
     icon: Clock,
@@ -215,7 +215,7 @@ export default function ContactPage() {
           >
             <Calendar className="w-16 h-16 text-gold mx-auto mb-6" />
             <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Bar Council Election 2025
+              Bar Council Election 2026
             </h2>
             <p className="text-muted-foreground text-lg mb-8">
               I sincerely seek your support, trust, and your valuable first preferential vote 

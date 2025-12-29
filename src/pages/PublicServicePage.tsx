@@ -197,7 +197,7 @@ export default function PublicServicePage() {
             className="max-w-2xl mx-auto bg-card rounded-2xl p-8 shadow-elegant border border-border/50"
           >
             <h3 className="font-display text-2xl font-bold text-foreground mb-6 text-center">
-              Enroll Now
+              Join with Dr.N.Vijayaraj
             </h3>
             <form onSubmit={handleSubmit} className="space-y-4">
               <div className="grid md:grid-cols-2 gap-4">
@@ -245,7 +245,7 @@ export default function PublicServicePage() {
                 rows={4}
               />
               <Button type="submit" variant="gold" size="lg" className="w-full">
-                Submit Enrollment Request
+                Submit
                 <ArrowRight className="w-4 h-4" />
               </Button>
             </form>

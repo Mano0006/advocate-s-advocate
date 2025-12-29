@@ -8,7 +8,7 @@ const navLinks = [
   { href: "/", label: "Home" },
   { href: "/biography", label: "Biography" },
   { href: "/practice", label: "Practice & Expertise" },
-  { href: "/manifesto", label: "Election Manifesto" },
+  { href: "/manifesto", label: "Bar Council Election" },
   { href: "/publications", label: "Publications" },
   { href: "/public-service", label: "Public Service" },
   { href: "/contact", label: "Contact" },

@@ -11,7 +11,7 @@ import {
   Users,
   Scale,
 } from "lucide-react";
-import advocatePortrait from "@/assets/advocate-portrait.jpg";
+import advocatePortrait from "@/assets/image.png";
 
 const timeline = [
   {
