@@ -25,12 +25,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+91 98844 42080"],
+    details: ["+91 XXXXX XXXXX"],
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["vijaycourt@gmail.com"],
+    details: ["contact@drvijayaraj.com"],
   },
   {
     icon: Clock,

@@ -53,14 +53,13 @@ const timeline = [
 ];
 
 const qualifications = [
-  { degree: "M.A. (History)", institution: "Annamalai University" },
-  { degree: "M.Com", institution: "Alagappa University" },
-  { degree: "M.B.A. (Labour Laws)", institution: "NIBM" },
-  { degree: "M.L. (Labour & Administrative Law)", institution: "Tamil Nadu Dr. Ambedkar Law University" },
-  { degree: "M.Sc. (Applied Psychology)", institution: "Annamalai University" },
-  { degree: "D.L.L.", institution: "Diploma in Labour Law" },
-  { degree: "D.I.R.P.M.", institution: "Diploma in Industrial Relations & Personnel Management" },
   { degree: "Ph.D. in Law", institution: "Bharath University, Chennai" },
+  { degree: "ML (Labour & Administrative Law)", institution: "Tamil Nadu Dr. Ambedkar Law University" },
+  { degree: "M.Com", institution: "Alagappa University" },
+  { degree: "MBA (Labour Laws)", institution: "NIBM" },
+  { degree: "M.Sc (Applied Psychology)", institution: "Annamalai University" },
+  { degree: "MA (History)", institution: "Annamalai University" },
+  { degree: "DLL & DIRPM", institution: "Various Institutions" },
 ];
 
 export default function BiographyPage() {
